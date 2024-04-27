@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-	//setlocale(LC_ALL, "rus"); //разблокируй если скачаешь 
 	int a, b, c;
 	cout << "¬ведите значение дл€ переменной а = ";
 	cin >> a;
